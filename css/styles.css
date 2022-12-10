@@ -1,0 +1,57 @@
+body{
+  padding-top: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+#keys {
+  font-size: 32px;
+}
+
+#target {
+  font-size: 48px;
+  letter-spacing: 4px;
+}
+
+#re,
+#result {
+  font-size: 48px;
+}
+
+.hide {
+  opacity: 0;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 40px;
+  background: #eee;
+}
+
+table, td, tr { 
+  border: 2px #2b2b2b solid;
+}
+
+tr{
+  vertical-align: middle;
+}
+
+#re{
+  padding-bottom: 50px;
+}
+
+
+
+tr,td{
+  text-align: center;
+  padding: 20px 40px
+ }
+
+
+.color {
+  background-color: blue;
+  color: aqua;
+  font-weight: bold;
+}
+
